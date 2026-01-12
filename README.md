@@ -1,5 +1,5 @@
-# Python_100_code_challange
-learn Python and do 100 code
+ # Python_100_code_challange
+learn Python and do 100 codes
 
 🟢 BEGINNER (1–30)
 
