@@ -4,38 +4,38 @@ Learn Python by solving 100 practical coding problems.
 🟢 BEGINNER (1–30)
 Basics, Input, Output, Conditions, Loops
 
-| No | Problem |
-|----|--------|
-| 1  | Print "Hello, Python" |
-| 2  | Take user name and age, print a greeting message |
-| 3  | Take two numbers and print sum, difference, product, division |
-| 4  | Check if a number is even or odd |
-| 5  | Check if a number is positive, negative, or zero |
-| 6  | Find the largest of two numbers |
-| 7  | Find the largest of three numbers |
-| 8  | Print numbers from 1 to 100 |
-| 9  | Print all even numbers between 1 and 100 |
-| 10 | Print the sum of first N natural numbers |
-| 11 | Print the multiplication table of a number |
-| 12 | Count digits in a number |
-| 13 | Reverse a number |
-| 14 | Check if a number is a palindrome |
-| 15 | Find the factorial of a number |
-| 16 | Generate Fibonacci series up to N terms |
-| 17 | Check if a number is prime |
-| 18 | Print all prime numbers between 1 and 100 |
-| 19 | Convert Celsius to Fahrenheit |
-| 20 | Convert kilometers to miles |
-| 21 | Check if a character is a vowel |
-| 22 | Count vowels in a string |
-| 23 | Reverse a string |
-| 24 | Check if a string is a palindrome |
-| 25 | Count words in a sentence |
-| 26 | Remove spaces from a string |
-| 27 | Replace spaces with underscore (_) |
-| 28 | Check if string contains only digits |
-| 29 | Print ASCII value of a character |
-| 30 | Swap two numbers without a third variable |
+| No | Problem | Status | Solution |
+|----|--------|--------|----------|
+| 1  | Print "Hello, Python" | ⬜ | [Code](./beginner/01_hello.py) |
+| 2  | Take user name and age, print greeting message | ⬜ | [Code](./beginner/02_greeting.py) |
+| 3  | Two numbers: sum, difference, product, division | ⬜ | [Code](./beginner/03_operations.py) |
+| 4  | Check even or odd | ⬜ | [Code](./beginner/04_even_odd.py) |
+| 5  | Check positive, negative, or zero | ⬜ | [Code](./beginner/05_number_check.py) |
+| 6  | Largest of two numbers | ⬜ | [Code](./beginner/06_largest_two.py) |
+| 7  | Largest of three numbers | ⬜ | [Code](./beginner/07_largest_three.py) |
+| 8  | Print numbers 1 to 100 | ⬜ | [Code](./beginner/08_print_1_100.py) |
+| 9  | Print even numbers 1 to 100 | ⬜ | [Code](./beginner/09_even_1_100.py) |
+| 10 | Sum of first N numbers | ⬜ | [Code](./beginner/10_sum_n.py) |
+| 11 | Multiplication table | ⬜ | [Code](./beginner/11_table.py) |
+| 12 | Count digits in number | ⬜ | [Code](./beginner/12_count_digits.py) |
+| 13 | Reverse a number | ⬜ | [Code](./beginner/13_reverse_number.py) |
+| 14 | Number palindrome | ⬜ | [Code](./beginner/14_palindrome_number.py) |
+| 15 | Factorial | ⬜ | [Code](./beginner/15_factorial.py) |
+| 16 | Fibonacci series | ⬜ | [Code](./beginner/16_fibonacci.py) |
+| 17 | Prime number check | ⬜ | [Code](./beginner/17_prime.py) |
+| 18 | Prime numbers 1–100 | ⬜ | [Code](./beginner/18_primes_100.py) |
+| 19 | Celsius to Fahrenheit | ⬜ | [Code](./beginner/19_celsius_fahrenheit.py) |
+| 20 | Kilometers to miles | ⬜ | [Code](./beginner/20_km_miles.py) |
+| 21 | Check vowel | ⬜ | [Code](./beginner/21_vowel.py) |
+| 22 | Count vowels in string | ⬜ | [Code](./beginner/22_count_vowels.py) |
+| 23 | Reverse string | ⬜ | [Code](./beginner/23_reverse_string.py) |
+| 24 | String palindrome | ⬜ | [Code](./beginner/24_palindrome_string.py) |
+| 25 | Count words in sentence | ⬜ | [Code](./beginner/25_word_count.py) |
+| 26 | Remove spaces | ⬜ | [Code](./beginner/26_remove_spaces.py) |
+| 27 | Replace spaces with underscore | ⬜ | [Code](./beginner/27_replace_spaces.py) |
+| 28 | Check string digits only | ⬜ | [Code](./beginner/28_digits_only.py) |
+| 29 | ASCII value of character | ⬜ | [Code](./beginner/29_ascii.py) |
+| 30 | Swap numbers without third variable | ⬜ | [Code](./beginner/30_swap.py) |
 
 🟡 INTERMEDIATE – PART 1 (31–60)
 Strings, Lists, Tuples, Sets, Dictionaries
