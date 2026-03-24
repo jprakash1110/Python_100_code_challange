@@ -6,16 +6,16 @@ Basics, Input, Output, Conditions, Loops
 
 | No | Problem | Status | Solution |
 |----|--------|--------|----------|
-| 1  | Print "Hello, Python" | ⬜ | [Code](./beginner/01_hello.py) |
-| 2  | Take user name and age, print greeting message | ⬜ | [Code](./beginner/02_greeting.py) |
-| 3  | Two numbers: sum, difference, product, division | ⬜ | [Code](./beginner/03_operations.py) |
-| 4  | Check even or odd | ⬜ | [Code](./beginner/04_even_odd.py) |
-| 5  | Check positive, negative, or zero | ⬜ | [Code](./beginner/05_number_check.py) |
-| 6  | Largest of two numbers | ⬜ | [Code](./beginner/06_largest_two.py) |
-| 7  | Largest of three numbers | ⬜ | [Code](./beginner/07_largest_three.py) |
-| 8  | Print numbers 1 to 100 | ⬜ | [Code](./beginner/08_print_1_100.py) |
-| 9  | Print even numbers 1 to 100 | ⬜ | [Code](./beginner/09_even_1_100.py) |
-| 10 | Sum of first N numbers | ⬜ | [Code](./beginner/10_sum_n.py) |
+| 1  | Print "Hello, Python" | ✅ | [Code](./beginner/01_hello.py) |
+| 2  | Take user name and age, print greeting message | ✅ | [Code](./beginner/02_greeting.py) |
+| 3  | Two numbers: sum, difference, product, division | ✅ | [Code](./beginner/03_operations.py) |
+| 4  | Check even or odd | ✅ | [Code](./beginner/04_even_odd.py) |
+| 5  | Check positive, negative, or zero | ✅ | [Code](./beginner/05_number_check.py) |
+| 6  | Largest of two numbers | ✅ | [Code](./beginner/06_largest_two.py) |
+| 7  | Largest of three numbers | ✅ | [Code](./beginner/07_largest_three.py) |
+| 8  | Print numbers 1 to 100 | ✅ | [Code](./beginner/08_print_1_100.py) |
+| 9  | Print even numbers 1 to 100 | ✅ | [Code](./beginner/09_even_1_100.py) |
+| 10 | Sum of first N numbers | ✅ | [Code](./beginner/10_sum_n.py) |
 | 11 | Multiplication table | ⬜ | [Code](./beginner/11_table.py) |
 | 12 | Count digits in number | ⬜ | [Code](./beginner/12_count_digits.py) |
 | 13 | Reverse a number | ⬜ | [Code](./beginner/13_reverse_number.py) |
