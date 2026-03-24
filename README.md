@@ -124,6 +124,10 @@ Comprehensions, OOP, Modules, OS, Automation
 | 98 | Alert disk > 80% | ⬜ | [Code](./advanced/98_alert.py) |
 | 99 | Monitor CPU & memory | ⬜ | [Code](./advanced/99_monitor.py) |
 | 100| Restart service if down | ⬜ | [Code](./advanced/100_restart.py) |****
-| 98 | Alert disk > 80% | ⬜ | [Code](./advanced/98_alert.py) |
+
+
+⬜ → Not started
+🔄 → In progress
+✅ → Completed
 | 99 | Monitor CPU & memory | ⬜ | [Code](./advanced/99_monitor.py) |
 | 100| Restart service if down | ⬜ | [Code](./advanced/100_restart.py) |
