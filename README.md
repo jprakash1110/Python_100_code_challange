@@ -40,89 +40,90 @@ Basics, Input, Output, Conditions, Loops
 🟡 INTERMEDIATE – PART 1 (31–60)
 Strings, Lists, Tuples, Sets, Dictionaries
 
-| No | Problem |
-|----|--------|
-| 31 | Find length of string without using len() |
-| 32 | Find frequency of each character in a string |
-| 33 | Remove duplicate characters from a string |
-| 34 | Check if two strings are anagrams |
-| 35 | Find first non-repeating character in a string |
-| 36 | Create a list and print all elements |
-| 37 | Find sum of elements in a list |
-| 38 | Find max and min in a list without built-in functions |
-| 39 | Remove duplicates from a list |
-| 40 | Count even and odd numbers in a list |
-| 41 | Reverse a list |
-| 42 | Sort a list without using sort() |
-| 43 | Find second largest number in a list |
-| 44 | Check if a list is a palindrome |
-| 45 | Find common elements between two lists |
-| 46 | Split list into even and odd lists |
-| 47 | Count frequency of elements in a list |
-| 48 | Rotate list by K positions |
-| 49 | Flatten a nested list |
-| 50 | Convert list to tuple |
-| 51 | Count occurrences of an element in a tuple |
-| 52 | Create dictionary and print keys and values |
-| 53 | Create dictionary from two lists |
-| 54 | Count word frequency using dictionary |
-| 55 | Find key with maximum value in dictionary |
-| 56 | Sort dictionary by keys |
-| 57 | Sort dictionary by values |
-| 58 | Remove duplicate values from dictionary |
-| 59 | Perform union, intersection, difference on sets |
-| 60 | Check if one set is subset of another |
+| No | Problem | Status | Solution |
+|----|--------|--------|----------|
+| 31 | Length of string without len() | ⬜ | [Code](./intermediate1/31_length.py) |
+| 32 | Character frequency | ⬜ | [Code](./intermediate1/32_frequency.py) |
+| 33 | Remove duplicate characters | ⬜ | [Code](./intermediate1/33_remove_duplicates.py) |
+| 34 | Check anagram | ⬜ | [Code](./intermediate1/34_anagram.py) |
+| 35 | First non-repeating character | ⬜ | [Code](./intermediate1/35_non_repeating.py) |
+| 36 | Print list elements | ⬜ | [Code](./intermediate1/36_list_print.py) |
+| 37 | Sum of list elements | ⬜ | [Code](./intermediate1/37_list_sum.py) |
+| 38 | Max & Min without built-in | ⬜ | [Code](./intermediate1/38_min_max.py) |
+| 39 | Remove duplicates from list | ⬜ | [Code](./intermediate1/39_remove_duplicates.py) |
+| 40 | Count even & odd in list | ⬜ | [Code](./intermediate1/40_even_odd.py) |
+| 41 | Reverse list | ⬜ | [Code](./intermediate1/41_reverse_list.py) |
+| 42 | Sort list without sort() | ⬜ | [Code](./intermediate1/42_sort.py) |
+| 43 | Second largest element | ⬜ | [Code](./intermediate1/43_second_largest.py) |
+| 44 | List palindrome | ⬜ | [Code](./intermediate1/44_palindrome_list.py) |
+| 45 | Common elements in lists | ⬜ | [Code](./intermediate1/45_common.py) |
+| 46 | Split even & odd lists | ⬜ | [Code](./intermediate1/46_split_even_odd.py) |
+| 47 | Frequency of list elements | ⬜ | [Code](./intermediate1/47_frequency.py) |
+| 48 | Rotate list by K | ⬜ | [Code](./intermediate1/48_rotate.py) |
+| 49 | Flatten nested list | ⬜ | [Code](./intermediate1/49_flatten.py) |
+| 50 | List to tuple | ⬜ | [Code](./intermediate1/50_list_to_tuple.py) |
+| 51 | Count tuple occurrences | ⬜ | [Code](./intermediate1/51_tuple_count.py) |
+| 52 | Dictionary keys & values | ⬜ | [Code](./intermediate1/52_dict_keys.py) |
+| 53 | Dictionary from two lists | ⬜ | [Code](./intermediate1/53_dict_from_lists.py) |
+| 54 | Word frequency dictionary | ⬜ | [Code](./intermediate1/54_word_freq.py) |
+| 55 | Key with max value | ⬜ | [Code](./intermediate1/55_max_key.py) |
+| 56 | Sort dictionary by keys | ⬜ | [Code](./intermediate1/56_sort_keys.py) |
+| 57 | Sort dictionary by values | ⬜ | [Code](./intermediate1/57_sort_values.py) |
+| 58 | Remove duplicate values | ⬜ | [Code](./intermediate1/58_remove_dup_values.py) |
+| 59 | Set operations | ⬜ | [Code](./intermediate1/59_set_ops.py) |
+| 60 | Check subset | ⬜ | [Code](./intermediate1/60_subset.py) |
 
 🔵 INTERMEDIATE – PART 2 (61–80)
 Functions, Recursion, File Handling, Exceptions
 
-| No | Problem |
-|----|--------|
-| 61 | Write a function to add two numbers |
-| 62 | Write a function to check prime number |
-| 63 | Write a function to calculate factorial |
-| 64 | Write a function to reverse a string |
-| 65 | Write a function to find max in list |
-| 66 | Recursive function for factorial |
-| 67 | Recursive function for Fibonacci |
-| 68 | Function to check palindrome (string/number) |
-| 69 | Function using *args |
-| 70 | Function using **kwargs |
-| 71 | Create a file and write data |
-| 72 | Read data from file |
-| 73 | Count number of lines in file |
-| 74 | Count number of words in file |
-| 75 | Count word frequency in file |
-| 76 | Copy content from one file to another |
-| 77 | Find longest word in file |
-| 78 | Handle division by zero exception |
-| 79 | Handle file not found exception |
-| 80 | Use try-except-else-finally |
+| No | Problem | Status | Solution |
+|----|--------|--------|----------|
+| 61 | Function to add numbers | ⬜ | [Code](./intermediate2/61_add.py) |
+| 62 | Function to check prime | ⬜ | [Code](./intermediate2/62_prime.py) |
+| 63 | Function for factorial | ⬜ | [Code](./intermediate2/63_factorial.py) |
+| 64 | Function to reverse string | ⬜ | [Code](./intermediate2/64_reverse.py) |
+| 65 | Function to find max in list | ⬜ | [Code](./intermediate2/65_max.py) |
+| 66 | Recursive factorial | ⬜ | [Code](./intermediate2/66_rec_factorial.py) |
+| 67 | Recursive Fibonacci | ⬜ | [Code](./intermediate2/67_rec_fibonacci.py) |
+| 68 | Function palindrome check | ⬜ | [Code](./intermediate2/68_palindrome.py) |
+| 69 | Function using *args | ⬜ | [Code](./intermediate2/69_args.py) |
+| 70 | Function using **kwargs | ⬜ | [Code](./intermediate2/70_kwargs.py) |
+| 71 | Write to file | ⬜ | [Code](./intermediate2/71_write_file.py) |
+| 72 | Read from file | ⬜ | [Code](./intermediate2/72_read_file.py) |
+| 73 | Count lines in file | ⬜ | [Code](./intermediate2/73_count_lines.py) |
+| 74 | Count words in file | ⬜ | [Code](./intermediate2/74_count_words.py) |
+| 75 | Word frequency in file | ⬜ | [Code](./intermediate2/75_word_freq.py) |
+| 76 | Copy file content | ⬜ | [Code](./intermediate2/76_copy_file.py) |
+| 77 | Longest word in file | ⬜ | [Code](./intermediate2/77_longest_word.py) |
+| 78 | Handle division by zero | ⬜ | [Code](./intermediate2/78_exception.py) |
+| 79 | Handle file not found | ⬜ | [Code](./intermediate2/79_file_exception.py) |
+| 80 | try-except-else-finally | ⬜ | [Code](./intermediate2/80_try_except.py) |
 
 🔴 ADVANCED (81–100)
 Comprehensions, OOP, Modules, OS, Automation
 
-| No | Problem |
-|----|--------|
-| 81 | List comprehension for squares |
-| 82 | Dictionary comprehension for cubes |
-| 83 | Sort list of tuples using lambda |
-| 84 | Filter even numbers using filter() |
-| 85 | Double elements using map() |
-| 86 | Combine lists using zip() |
-| 87 | Parse JSON string to dictionary |
-| 88 | Read CSV file and print rows |
-| 89 | Count IP frequency from log file |
-| 90 | Execute Linux shell command |
-| 91 | Create class with attributes and methods |
-| 92 | Use constructor (__init__) |
-| 93 | Demonstrate inheritance |
-| 94 | Demonstrate method overriding |
-| 95 | Create custom exception |
-| 96 | Use logging module |
-| 97 | Check disk usage |
-| 98 | Alert if disk usage > 80% |
-| 99 | Monitor CPU and memory |
-| 100| Restart service if it is down |
-
-
+| No | Problem | Status | Solution |
+|----|--------|--------|----------|
+| 81 | List comprehension squares | ⬜ | [Code](./advanced/81_squares.py) |
+| 82 | Dictionary comprehension cubes | ⬜ | [Code](./advanced/82_cubes.py) |
+| 83 | Sort tuples using lambda | ⬜ | [Code](./advanced/83_lambda_sort.py) |
+| 84 | Filter even numbers | ⬜ | [Code](./advanced/84_filter.py) |
+| 85 | Double elements using map | ⬜ | [Code](./advanced/85_map.py) |
+| 86 | Combine lists using zip | ⬜ | [Code](./advanced/86_zip.py) |
+| 87 | JSON to dictionary | ⬜ | [Code](./advanced/87_json.py) |
+| 88 | Read CSV file | ⬜ | [Code](./advanced/88_csv.py) |
+| 89 | IP frequency from logs | ⬜ | [Code](./advanced/89_ip_logs.py) |
+| 90 | Execute shell command | ⬜ | [Code](./advanced/90_shell.py) |
+| 91 | Create class | ⬜ | [Code](./advanced/91_class.py) |
+| 92 | Constructor (__init__) | ⬜ | [Code](./advanced/92_constructor.py) |
+| 93 | Inheritance example | ⬜ | [Code](./advanced/93_inheritance.py) |
+| 94 | Method overriding | ⬜ | [Code](./advanced/94_override.py) |
+| 95 | Custom exception | ⬜ | [Code](./advanced/95_custom_exception.py) |
+| 96 | Logging module | ⬜ | [Code](./advanced/96_logging.py) |
+| 97 | Check disk usage | ⬜ | [Code](./advanced/97_disk.py) |
+| 98 | Alert disk > 80% | ⬜ | [Code](./advanced/98_alert.py) |
+| 99 | Monitor CPU & memory | ⬜ | [Code](./advanced/99_monitor.py) |
+| 100| Restart service if down | ⬜ | [Code](./advanced/100_restart.py) |****
+| 98 | Alert disk > 80% | ⬜ | [Code](./advanced/98_alert.py) |
+| 99 | Monitor CPU & memory | ⬜ | [Code](./advanced/99_monitor.py) |
+| 100| Restart service if down | ⬜ | [Code](./advanced/100_restart.py) |
