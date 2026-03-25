@@ -16,16 +16,16 @@ Basics, Input, Output, Conditions, Loops
 | 8  | Print numbers 1 to 100 | ✅ | [Code](./beginner/08_print_1_100.py) |
 | 9  | Print even numbers 1 to 100 | ✅ | [Code](./beginner/09_even_1_100.py) |
 | 10 | Sum of first N numbers | ✅ | [Code](./beginner/10_sum_n.py) |
-| 11 | Multiplication table | ⬜ | [Code](./beginner/11_table.py) |
-| 12 | Count digits in number | ⬜ | [Code](./beginner/12_count_digits.py) |
-| 13 | Reverse a number | ⬜ | [Code](./beginner/13_reverse_number.py) |
-| 14 | Number palindrome | ⬜ | [Code](./beginner/14_palindrome_number.py) |
-| 15 | Factorial | ⬜ | [Code](./beginner/15_factorial.py) |
-| 16 | Fibonacci series | ⬜ | [Code](./beginner/16_fibonacci.py) |
-| 17 | Prime number check | ⬜ | [Code](./beginner/17_prime.py) |
-| 18 | Prime numbers 1–100 | ⬜ | [Code](./beginner/18_primes_100.py) |
-| 19 | Celsius to Fahrenheit | ⬜ | [Code](./beginner/19_celsius_fahrenheit.py) |
-| 20 | Kilometers to miles | ⬜ | [Code](./beginner/20_km_miles.py) |
+| 11 | Multiplication table | ✅ | [Code](./beginner/11_table.py) |
+| 12 | Count digits in number | ✅ | [Code](./beginner/12_count_digits.py) |
+| 13 | Reverse a number | ✅ | [Code](./beginner/13_reverse_number.py) |
+| 14 | Number palindrome | ✅ | [Code](./beginner/14_palindrome_number.py) |
+| 15 | Factorial | ✅ | [Code](./beginner/15_factorial.py) |
+| 16 | Fibonacci series | 🔄 | [Code](./beginner/16_fibonacci.py) |
+| 17 | Prime number check | 🔄 | [Code](./beginner/17_prime.py) |
+| 18 | Prime numbers 1–100 | 🔄 | [Code](./beginner/18_primes_100.py) |
+| 19 | Celsius to Fahrenheit | 🔄 | [Code](./beginner/19_celsius_fahrenheit.py) |
+| 20 | Kilometers to miles | 🔄 | [Code](./beginner/20_km_miles.py) |
 | 21 | Check vowel | ⬜ | [Code](./beginner/21_vowel.py) |
 | 22 | Count vowels in string | ⬜ | [Code](./beginner/22_count_vowels.py) |
 | 23 | Reverse string | ⬜ | [Code](./beginner/23_reverse_string.py) |
