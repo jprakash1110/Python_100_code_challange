@@ -21,21 +21,21 @@ Basics, Input, Output, Conditions, Loops
 | 13 | Reverse a number | ✅ | [Code](./beginner/13_reverse_number.py) |
 | 14 | Number palindrome | ✅ | [Code](./beginner/14_palindrome_number.py) |
 | 15 | Factorial | ✅ | [Code](./beginner/15_factorial.py) |
-| 16 | Fibonacci series | 🔄 | [Code](./beginner/16_fibonacci.py) |
-| 17 | Prime number check | 🔄 | [Code](./beginner/17_prime.py) |
-| 18 | Prime numbers 1–100 | 🔄 | [Code](./beginner/18_primes_100.py) |
-| 19 | Celsius to Fahrenheit | 🔄 | [Code](./beginner/19_celsius_fahrenheit.py) |
-| 20 | Kilometers to miles | 🔄 | [Code](./beginner/20_km_miles.py) |
-| 21 | Check vowel | ⬜ | [Code](./beginner/21_vowel.py) |
-| 22 | Count vowels in string | ⬜ | [Code](./beginner/22_count_vowels.py) |
-| 23 | Reverse string | ⬜ | [Code](./beginner/23_reverse_string.py) |
-| 24 | String palindrome | ⬜ | [Code](./beginner/24_palindrome_string.py) |
-| 25 | Count words in sentence | ⬜ | [Code](./beginner/25_word_count.py) |
-| 26 | Remove spaces | ⬜ | [Code](./beginner/26_remove_spaces.py) |
-| 27 | Replace spaces with underscore | ⬜ | [Code](./beginner/27_replace_spaces.py) |
-| 28 | Check string digits only | ⬜ | [Code](./beginner/28_digits_only.py) |
-| 29 | ASCII value of character | ⬜ | [Code](./beginner/29_ascii.py) |
-| 30 | Swap numbers without third variable | ⬜ | [Code](./beginner/30_swap.py) |
+| 16 | Fibonacci series | ✅ | [Code](./beginner/16_fibonacci.py) |
+| 17 | Prime number check | ✅ | [Code](./beginner/17_prime.py) |
+| 18 | Prime numbers 1–100 | ✅ | [Code](./beginner/18_primes_100.py) |
+| 19 | Celsius to Fahrenheit | ✅ | [Code](./beginner/19_celsius_fahrenheit.py) |
+| 20 | Kilometers to miles | ✅ | [Code](./beginner/20_km_miles.py) |
+| 21 | Check vowel | ✅ | [Code](./beginner/21_vowel.py) |
+| 22 | Count vowels in string | ✅ | [Code](./beginner/22_count_vowels.py) |
+| 23 | Reverse string | 🔄 | [Code](./beginner/23_reverse_string.py) |
+| 24 | String palindrome | 🔄 | [Code](./beginner/24_palindrome_string.py) |
+| 25 | Count words in sentence | 🔄 | [Code](./beginner/25_word_count.py) |
+| 26 | Remove spaces | 🔄 | [Code](./beginner/26_remove_spaces.py) |
+| 27 | Replace spaces with underscore | 🔄 | [Code](./beginner/27_replace_spaces.py) |
+| 28 | Check string digits only | 🔄 | [Code](./beginner/28_digits_only.py) |
+| 29 | ASCII value of character | 🔄 | [Code](./beginner/29_ascii.py) |
+| 30 | Swap numbers without third variable | 🔄 | [Code](./beginner/30_swap.py) |
 
 🟡 INTERMEDIATE – PART 1 (31–60)
 Strings, Lists, Tuples, Sets, Dictionaries
